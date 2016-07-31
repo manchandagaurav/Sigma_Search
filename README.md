@@ -2,7 +2,7 @@
 
 Installing:
 
-git clone https://github.com/samj1912/sigma_search.git
+git clone https://github.com/manchandagaurav/sigma_search.git
 
 
 cd sigma_search
